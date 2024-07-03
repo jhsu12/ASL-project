@@ -9,11 +9,8 @@ The reason why the output shows the alphabets instead of the numbers is because 
 
 Additionally, I expanded the model's capabilities by training it to recognize a new gesture, the Korean heart "<3". This involved overseeing the data collection process, which included video recording and data cleaning, to ensure the data was suitable for preprocessing and effective model training. This technique can also be applied to training the operator for the real-time fingerspelling calculator.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GtP1CNFQEMM/0.jpg)](https://www.youtube.com/watch?v=GtP1CNFQEMM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kSwtB9MyStY/0.jpg)](https://www.youtube.com/watch?v=kSwtB9MyStY)
 
-
-
-Currently, I'm still working on increasing the accuracy of the new gesture, Korean heart.
 
 
 
